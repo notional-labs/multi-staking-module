@@ -1,0 +1,14 @@
+docker/Dockerfile
+.dockerignore
+.*.swp
+*.swp
+realio-networkd
+
+.idea
+
+s6/.s6-svscan/control
+s6/.s6-svscan/lock
+s6/*/supervise
+s6/*/event
+
+chart
